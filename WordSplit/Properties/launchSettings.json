@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordSplit": {
+      "commandName": "Project",
+      "commandLineArgs": "\"yellowgoodbye\" \"apple,bat,cat,goodbye,hello,yellow,why\""
+    }
+  }
+}
